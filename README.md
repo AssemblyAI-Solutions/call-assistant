@@ -1,8 +1,8 @@
 ## LeMUR + RealTime Assistant
 
-### Loom Video
+### Demo Video
 
-[Loom Video Link](https://www.loom.com/embed/8d57564f628d482e91191c2cfaf72437?sid=57d13da5-bc7d-4d6e-8456-ab3bada53278")
+[Demo Video Link](https://www.veed.io/view/a5d59a58-ad03-4514-afea-bbc504dde851?panel=share)
 
 ### TL;DR
 
