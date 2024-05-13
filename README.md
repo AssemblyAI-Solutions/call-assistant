@@ -1,4 +1,4 @@
-## LeMUR + RealTime Assistant
+## Call Assistant
 
 ### Demo Video
 
